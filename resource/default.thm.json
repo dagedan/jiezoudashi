@@ -1,0 +1,25 @@
+{
+	"skins": {
+		"eui.Button": "resource/eui_skins/ButtonSkin.exml",
+		"eui.Panel": "resource/eui_skins/PanelSkin.exml"
+	},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/eui_skins/Agin.exml",
+		"resource/eui_skins/ButtonLook.exml",
+		"resource/eui_skins/ButtonStartGame.exml",
+		"resource/eui_skins/chengjiu.exml",
+		"resource/eui_skins/chuji.exml",
+		"resource/eui_skins/click.exml",
+		"resource/eui_skins/close.exml",
+		"resource/eui_skins/DjsAn.exml",
+		"resource/eui_skins/gaoji.exml",
+		"resource/eui_skins/goback.exml",
+		"resource/eui_skins/homebutton.exml",
+		"resource/eui_skins/Panel.exml",
+		"resource/eui_skins/player.exml",
+		"resource/eui_skins/share.exml",
+		"resource/eui_skins/zhongji.exml"
+	],
+	"path": "resource/default.thm.json"
+}
